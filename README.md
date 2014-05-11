@@ -1,4 +1,4 @@
-landscape-library
+landscapes-library
 =================
 
 landscapes.io 
